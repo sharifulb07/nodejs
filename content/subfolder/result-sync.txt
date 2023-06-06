@@ -1,2 +1,1 @@
-Here is the result : Hello there is thaht this is first text, 
-Hello this is second text file  
+Here is the result : Hello there is thaht this is first text, Hello this is second text file  

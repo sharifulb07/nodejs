@@ -1,7 +1,6 @@
 {
   "name": "tutorial",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "type": "commonjs",
   "scripts": {
@@ -9,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "lodash": "^4.17.21"
+  }
 }
