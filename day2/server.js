@@ -13,6 +13,8 @@ console.log("Release Date", currentOS.release)
 console.log("Total Memory:", currentOS.totalmem)
 console.log("Free Memory", currentOS.freemem)
 
+
+
 // console.log(`The System Uptime is : ${os.uptime()}`)
 
 
